@@ -1,0 +1,79 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.billthefarmer.currency"
+4    android:installLocation="auto"
+5    android:versionCode="139"
+6    android:versionName="1.39" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="14"
+9-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="28" />
+10-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:9:3-65
+12-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:9:20-62
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:10:3-77
+13-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:10:20-74
+14
+15    <application
+15-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:12:3-41:17
+16        android:allowBackup="true"
+16-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:13:7-33
+17        android:debuggable="true"
+18        android:icon="@drawable/flag_inr"
+18-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:14:7-40
+19        android:label="@string/app_name"
+19-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:15:7-39
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:16:7-38
+22        <activity
+22-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:18:5-27:16
+23            android:name="org.billthefarmer.currency.Main"
+23-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:19:9-28
+24            android:exported="true"
+24-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:21:9-32
+25            android:label="@string/app_name"
+25-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:20:9-41
+26            android:windowSoftInputMode="stateHidden" >
+26-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:22:9-50
+27            <intent-filter>
+27-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:23:7-26:23
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:24:9-61
+28-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:24:17-58
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:25:9-69
+30-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:25:19-66
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:28:5-30:44
+34            android:name="org.billthefarmer.currency.ChartActivity"
+34-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:29:9-37
+35            android:label="@string/app_name" />
+35-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:30:9-41
+36        <activity
+36-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:31:5-34:46
+37            android:name="org.billthefarmer.currency.ChoiceDialog"
+37-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:32:9-36
+38            android:label="@string/app_name"
+38-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:33:9-41
+39            android:theme="@style/DialogTheme" />
+39-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:34:9-43
+40        <!-- <activity -->
+41        <!-- android:name="HelpActivity" -->
+42        <!-- android:label="@string/help" /> -->
+43        <activity
+43-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:38:5-40:44
+44            android:name="org.billthefarmer.currency.SettingsActivity"
+44-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:39:9-40
+45            android:label="@string/settings" />
+45-->C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:40:9-41
+46    </application>
+47
+48</manifest>

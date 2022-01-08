@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Sanjeev\\Music\\currency-converter\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sanjeev\\Music\\currency-converter\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "8,17,21,25",
+                        "startColumns": "2,2,2,2",
+                        "startOffsets": "247,568,721,859",
+                        "endLines": "10,19,23,27",
+                        "endColumns": "10,10,10,10",
+                        "endOffsets": "371,717,855,1004"
+                    },
+                    "to": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,184,338,477",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "10,10,10,10",
+                        "endOffsets": "179,333,472,622"
+                    }
+                }
+            ]
+        }
+    ]
+}

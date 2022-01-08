@@ -1,0 +1,38 @@
+org/billthefarmer/currency/ChartActivity.java
+ org.billthefarmer.currency.ChartActivity
+ org.billthefarmer.currency.ChartActivity$1
+ org.billthefarmer.currency.ChartActivity$DateAxisValueFormatter
+org/billthefarmer/currency/Singleton.java
+ org.billthefarmer.currency.Singleton
+ org.billthefarmer.currency.Singleton$ParseTask
+ org.billthefarmer.currency.Singleton$TaskCallbacks
+org/billthefarmer/currency/Parser.java
+ org.billthefarmer.currency.Parser
+ org.billthefarmer.currency.Parser$1
+ org.billthefarmer.currency.Parser$Handler
+org/billthefarmer/currency/BuildConfig.java
+ org.billthefarmer.currency.BuildConfig
+org/billthefarmer/currency/HelpActivity.java
+ org.billthefarmer.currency.HelpActivity
+org/billthefarmer/currency/SettingsFragment.java
+ org.billthefarmer.currency.SettingsFragment
+org/billthefarmer/currency/ChoiceAdapter.java
+ org.billthefarmer.currency.ChoiceAdapter
+org/billthefarmer/currency/CurrencyAdapter.java
+ org.billthefarmer.currency.CurrencyAdapter
+org/billthefarmer/currency/ChartParser.java
+ org.billthefarmer.currency.ChartParser
+ org.billthefarmer.currency.ChartParser$1
+ org.billthefarmer.currency.ChartParser$Handler
+org/billthefarmer/currency/Main.java
+ org.billthefarmer.currency.Main
+org/billthefarmer/currency/ChoiceDialog.java
+ org.billthefarmer.currency.ChoiceDialog
+org/billthefarmer/currency/Data.java
+ org.billthefarmer.currency.Data
+ org.billthefarmer.currency.Data$ParseTask
+ org.billthefarmer.currency.Data$TaskCallbacks
+org/billthefarmer/currency/SettingsActivity.java
+ org.billthefarmer.currency.SettingsActivity
+org/billthefarmer/currency/AboutPreference.java
+ org.billthefarmer.currency.AboutPreference

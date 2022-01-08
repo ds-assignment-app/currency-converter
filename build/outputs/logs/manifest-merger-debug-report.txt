@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Sanjeev\.gradle\caches\transforms-3\41719be6841a3f9901ab96db1ca0fc7e\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:5:5-41
+		INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:3:5-63
+	tools:ignore
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:7:5-44
+	android:installLocation
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:6:5-35
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:9:3-65
+	android:name
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:9:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:10:3-77
+	android:name
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:10:20-74
+application
+ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:12:3-41:17
+	android:label
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:15:7-39
+	tools:ignore
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:17:7-33
+	android:icon
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:14:7-40
+	android:allowBackup
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:13:7-33
+	android:theme
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:16:7-38
+activity#org.billthefarmer.currency.Main
+ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:18:5-27:16
+	android:label
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:20:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:22:9-50
+	android:exported
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:21:9-32
+	android:name
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:19:9-28
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:23:7-26:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:24:9-61
+	android:name
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:24:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:25:9-69
+	android:name
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:25:19-66
+activity#org.billthefarmer.currency.ChartActivity
+ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:28:5-30:44
+	android:label
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:30:9-41
+	android:name
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:29:9-37
+activity#org.billthefarmer.currency.ChoiceDialog
+ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:31:5-34:46
+	android:label
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:33:9-41
+	android:theme
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:34:9-43
+	android:name
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:32:9-36
+activity#org.billthefarmer.currency.SettingsActivity
+ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:38:5-40:44
+	android:label
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:40:9-41
+	android:name
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml:39:9-40
+uses-sdk
+INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Sanjeev\.gradle\caches\transforms-3\41719be6841a3f9901ab96db1ca0fc7e\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Sanjeev\.gradle\caches\transforms-3\41719be6841a3f9901ab96db1ca0fc7e\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sanjeev\Music\currency-converter\src\main\AndroidManifest.xml

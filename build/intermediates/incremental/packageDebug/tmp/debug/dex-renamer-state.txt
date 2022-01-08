@@ -1,0 +1,4 @@
+#Thu Dec 30 12:18:42 IST 2021
+base.0=C\:\\Users\\Sanjeev\\Music\\currency-converter\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
